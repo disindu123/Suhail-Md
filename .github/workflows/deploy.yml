@@ -29,7 +29,7 @@ jobs:
     - name: Start Suhail-Md
     
       env:
-          OWNER_NAME: 
+          OWNER_NAME:
           OWNER_NUMBER:
           SESSION_ID:
 
